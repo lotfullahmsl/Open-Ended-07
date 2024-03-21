@@ -8,6 +8,7 @@
 
 using namespace std;
 
+//changed version
 
 class Student;
 class Course;
